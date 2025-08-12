@@ -55,6 +55,3 @@ This project allows users to input any text, and the browser will read it out lo
    * Option 2 (Recommended): Use **Live Server** in VS Code for better performance.
 
 ---
-
-If you want, I can also make a **shorter GitHub-optimized README** with a catchy header and badges so it looks more polished in your profile.
-Do you want me to make that version too?
